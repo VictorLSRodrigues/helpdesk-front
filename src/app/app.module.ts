@@ -30,6 +30,7 @@ import { MatCardModule } from '@angular/material/card';
 //componentes do projeto
 import { NavComponent } from './components/nav/nav.component';
 import { HomeComponent } from './components/home/home.component';
+import { NeaderComponent } from './components/neader/neader.component';
 
 
 @NgModule({
@@ -37,6 +38,7 @@ import { HomeComponent } from './components/home/home.component';
     AppComponent,
     NavComponent,
     HomeComponent,
+    NeaderComponent,
   
   ],
   imports: [
