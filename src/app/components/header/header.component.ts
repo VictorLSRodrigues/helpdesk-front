@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-neader',
-  templateUrl: './neader.component.html',
-  styleUrls: ['./neader.component.css']
+  templateUrl: './header.component.html',
+  styleUrls: ['./header.component.css']
 })
 export class NeaderComponent implements OnInit {
 
