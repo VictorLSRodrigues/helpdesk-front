@@ -52,7 +52,7 @@ export class ChamadoCreateComponent implements OnInit {
     this.findAllClientes();
     this.findAllTecnicos();
   }
-
+//beta find by nome
 @ViewChild('selectTecnico') selectTecnico: MatSelect;
 abrirFiltroTecnico(aberto: boolean) {
   if (aberto) {
